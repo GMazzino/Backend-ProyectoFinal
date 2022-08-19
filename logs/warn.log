@@ -1,0 +1,13 @@
+[2022-08-06 03:30:29.236] WARN: {"from":"E-Commerce Server","to":"dominique.bernhard89@ethereal.email","subject":"Nuevo pedido de alyson.fritsch37@ethereal.email)","html":"Se informa detalle de nuevo pedido: <br /> <br />Articulo: ART00001<br />Nombre: Telescopio<br />Descripcion: Telescopio perfecto para estudiantes<br />Cantidad: 4<br />Precio unit: $ 4820.58<br />Total: $ 19282.32<br /><br />Articulo: ART00003<br />Nombre: Calculadora<br />Descripcion: Calculadora estandar<br />Cantidad: 2<br />Precio unit: $ 734.66<br />Total: $ 1469.32<br /><br />Total del pedido: $ 20751.64"}
+[2022-08-06 03:30:29.340] WARN: {"from":"E-Commerce Server","to":"alyson.fritsch37@ethereal.email","subject":"Se ha recibido su pedido","html":"Hemos recibido su pedido y a continuación se encuentra el detalle.<br /><br />Articulo: ART00001<br />Nombre: Telescopio<br />Descripcion: Telescopio perfecto para estudiantes<br />Cantidad: 4<br />Precio unit: $ 4820.58<br />Total: $ 19282.32<br /><br />Articulo: ART00003<br />Nombre: Calculadora<br />Descripcion: Calculadora estandar<br />Cantidad: 2<br />Precio unit: $ 734.66<br />Total: $ 1469.32<br /><br />Total del pedido: $ 20751.64"}
+[2022-08-08 23:05:27.552] WARN: Method GET on route "/css/styles.css" not implemented.
+[2022-08-08 23:10:50.334] WARN: Method POST on route "/index.html" not implemented.
+[2022-08-08 23:12:06.906] WARN: Method GET on route "/index.html%7D" not implemented.
+[2022-08-08 23:12:10.504] WARN: Method GET on route "/css/styles.css" not implemented.
+[2022-08-08 23:12:38.043] WARN: Method GET on route "/css/styles.css" not implemented.
+[2022-08-09 00:04:38.917] WARN: Method GET on route "/socket.io/?EIO=4&transport=polling&t=OA0ZxZp" not implemented.
+[2022-08-09 00:04:39.013] WARN: Method GET on route "/socket.io/?EIO=4&transport=polling&t=OA0ZxbV" not implemented.
+[2022-08-09 00:04:44.724] WARN: Method GET on route "/socket.io/?EIO=4&transport=polling&t=OA0Zy-T" not implemented.
+[2022-08-09 00:04:44.729] WARN: Method GET on route "/socket.io/?EIO=4&transport=polling&t=OA0Zy-U" not implemented.
+[2022-08-09 00:25:47.530] WARN: io OK
+[2022-08-09 00:27:58.026] WARN: io OK

@@ -1,0 +1,4 @@
+[2022-08-08 23:23:42.483] ERROR: Module: dao/mongoDB_carts.js Method: #dbConnection (2) -> MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017
+[2022-08-08 23:23:42.487] ERROR: Module: dao/mongoDB_chat.js Method: saveChatMsg -> Error: connect ECONNREFUSED 127.0.0.1:27017
+[2022-08-08 23:28:33.596] ERROR: Module: dao/mongoDB_chat.js Method: saveChatMsg -> ValidationError: email: Path `email` is required., fecha: Path `fecha` is required., texto: Path `texto` is required.
+[2022-08-08 23:31:00.502] ERROR: Module: dao/mongoDB_chat.js Method: saveChatMsg -> ValidationError: email: Path `email` is required., fecha: Path `fecha` is required., texto: Path `texto` is required.

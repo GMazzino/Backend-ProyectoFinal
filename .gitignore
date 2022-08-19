@@ -1,0 +1,6 @@
+node_modules/
+.env
+products.csv
+db/
+mongosrv.bat
+products.json

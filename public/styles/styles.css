@@ -1,0 +1,24 @@
+h1,
+h2,
+.p {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: midnightblue;
+}
+
+.container p {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin: 0;
+}
+
+.container p .date {
+  color: green;
+}
+
+.container p .email {
+  color: darkblue;
+}
+
+.container p .msg {
+  color: black;
+  font-weight: 600;
+}
